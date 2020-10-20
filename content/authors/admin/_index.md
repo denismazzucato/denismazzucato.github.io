@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Denis Mazzucato
 
 # Username (this should match the folder name)
 authors:
@@ -10,20 +10,21 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Ph.D. in Computer Science
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: "École Normale Supérieure Université PSL" # two lines perfectly at the two university names
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include formal methods and data science. In particular static analysis, abstract interpretation, neural networks and machine-learned safety issues.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Static Analysis
+- Abstract Interpretation
+- Formal Methods
+- Neural Networks
 
 education:
   courses:
@@ -48,20 +49,20 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/denismazzucato
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/dm_cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "denis.mazzucato@ens.fr"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -73,6 +74,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am Denis Mazzucato, a Ph.D. student under the supervision of dr. Caterina Urban at the École Normale Supérieure | Université PSL in Paris. My research interests include formal methods and data science. In particular static analysis, abstract interpretation, neural networks, and machine-learned safety issues. That is why I joined the ANTIQUE team (Inria) here in Paris, where the abstract interpretation analysis technique is born.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+With the team, we are looking to push a step forward safety of hardly understandable machine-learned programs that deeply invade the safety-critical systems world. We introduce a handy technique of abstract interpretation, with ages of studies behind, into the AI world.
