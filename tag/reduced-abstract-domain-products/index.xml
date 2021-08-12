@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reduced Abstract Domain Products | Denis Mazzucato</title>
+    <link>https://denismazzucato.github.io/tag/reduced-abstract-domain-products/</link>
+      <atom:link href="https://denismazzucato.github.io/tag/reduced-abstract-domain-products/index.xml" rel="self" type="application/rss+xml" />
+    <description>Reduced Abstract Domain Products</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>@ 2021 Denis Mazzucato</copyright><lastBuildDate>Tue, 27 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://denismazzucato.github.io/media/icon_hu96ee834df221f5d989c504115c6a2c4f_8786_512x512_fill_lanczos_center_2.png</url>
+      <title>Reduced Abstract Domain Products</title>
+      <link>https://denismazzucato.github.io/tag/reduced-abstract-domain-products/</link>
+    </image>
+    
+    <item>
+      <title>Reduced Products of Abstract Domains for Fairness Certification of Neural Networks</title>
+      <link>https://denismazzucato.github.io/publication/sas21/</link>
+      <pubDate>Tue, 27 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://denismazzucato.github.io/publication/sas21/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
