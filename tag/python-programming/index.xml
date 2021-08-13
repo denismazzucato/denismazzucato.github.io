@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python Programming | Denis Mazzucato</title>
+    <link>https://denismazzucato.github.io/tag/python-programming/</link>
+      <atom:link href="https://denismazzucato.github.io/tag/python-programming/index.xml" rel="self" type="application/rss+xml" />
+    <description>Python Programming</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>@ 2021 Denis Mazzucato</copyright>
+    <image>
+      <url>https://denismazzucato.github.io/media/icon_hu96ee834df221f5d989c504115c6a2c4f_8786_512x512_fill_lanczos_center_2.png</url>
+      <title>Python Programming</title>
+      <link>https://denismazzucato.github.io/tag/python-programming/</link>
+    </image>
+    
+    <item>
+      <title>Python Bootcamp</title>
+      <link>https://denismazzucato.github.io/teaching/python21/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://denismazzucato.github.io/teaching/python21/</guid>
+      <description>&lt;p&gt;Master 1 students start the year with a 3-weeks sequence, called Boot camp, which focuses on full-time programming training.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
