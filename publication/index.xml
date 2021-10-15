@@ -36,5 +36,29 @@ Supplementary notes can be added here, including [code, math, and images](https:
 </description>
     </item>
     
+    <item>
+      <title>Solving Systems of Fixpoint Equations: an Algorithmic Perspective</title>
+      <link>https://denismazzucato.github.io/publication/mcsthesis/</link>
+      <pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://denismazzucato.github.io/publication/mcsthesis/</guid>
+      <description>&lt;!-- The video presentation of the SAS2021 talk will be available soon! --&gt;
+&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

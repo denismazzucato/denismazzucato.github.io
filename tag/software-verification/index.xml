@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software Verification | Denis Mazzucato</title>
+    <link>https://denismazzucato.github.io/tag/software-verification/</link>
+      <atom:link href="https://denismazzucato.github.io/tag/software-verification/index.xml" rel="self" type="application/rss+xml" />
+    <description>Software Verification</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>@ 2021 Denis Mazzucato</copyright><lastBuildDate>Sun, 27 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://denismazzucato.github.io/media/icon_hu96ee834df221f5d989c504115c6a2c4f_8786_512x512_fill_lanczos_center_2.png</url>
+      <title>Software Verification</title>
+      <link>https://denismazzucato.github.io/tag/software-verification/</link>
+    </image>
+    
+    <item>
+      <title>Solving Systems of Fixpoint Equations: an Algorithmic Perspective</title>
+      <link>https://denismazzucato.github.io/publication/mcsthesis/</link>
+      <pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://denismazzucato.github.io/publication/mcsthesis/</guid>
+      <description>&lt;!-- The video presentation of the SAS2021 talk will be available soon! --&gt;
+&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
