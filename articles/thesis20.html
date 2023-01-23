@@ -1,0 +1,32 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <div include="/src/meta.html"></div>
+  <title>Denis Mazzucato</title>
+</head>
+<body>
+  <div class="container">
+    <div class="row my-4">
+      <div class="col-2">
+        <a href="/index.html">&lt;&lt; Back to home</a>
+      </div>
+      <div class="col-10">
+        <p class="text-muted">September 2020</p>
+        <h2>Solving Systems of Fixpoint Equations: an Algorithmic Perspective</h2>
+        <p class="h5 text-muted"><b>Denis Mazzucato</b>, Paolo Baldan, Tommaso Padoin</p>
+        <p class="m-5">Systems of fixpoint equations over complete lattices are at the heart of many verification tasks and analysis techniques, such as model-checking of various kinds of specification logics. Some recent research showed that a game-theoretical characterization of the solution of systems of equations could be developed in terms of suitable parity games, which are referred to as powerset games. While, in principle, at least for finite lattices, the characterization allows one to determine the solution constructively, a naive application of the theory can be impractical due to the vast amount of moves one needs to play before singling out the solution. A key observation is that many of such moves are “redundant” and can be discarded when searching for the winner of the game. As a first step, the thesis formalizes this observation by introducing the notion of selection for powerset games, a subset of the moves sufficient to completely characterize the winner and showing that, under suitable conditions, a minimal selection exists. Furthermore, we introduced a logical form to efficiently represent these selections, in the form of so-called symbolic ∃-moves. The game-theoretical characterization view opens the way to developing various algorithms, with either a global approach that determines the winner of each game's position or with a local approach that focuses on a specific position. Since various verification tasks boil down in checking whether a specific state enjoys some property, that in terms means establishing the winner of a specific position, we focus our efforts on local algorithms. Specifically, building on a previous proposal we develop a local algorithm that works over complete lattices. It relies on a description of a set of fundamental operators over some finite generic lattices. It efficiently solves the verification task associated through symbolic ∃-moves used to minimize the number of positions explored to solve the game and retrieve the winner.</p>
+        <dl class="row">
+          <dt class="col-sm-2">Type</dt>
+          <dd class="col-sm-10">MCS Thesis</dd>
+        </dl>
+        <div>
+          <a role="button" class="btn btn-outline-primary" href="/src/pdf/thesis20.pdf" target="_blank">PDF</a>
+          <a role="button" class="btn btn-outline-primary" href="/src/pdf/thesis20-slides.pdf" target="_blank">Slides</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script src="/inject.js"></script>
+</body>
+</html>

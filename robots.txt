@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://denismazzucato.github.io/sitemap.xml
