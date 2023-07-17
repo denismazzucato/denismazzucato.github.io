@@ -77,3 +77,11 @@ ul.timeline > li:before {
 .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
   font-weight: 300;
 }
+
+.image-container {
+  margin-bottom: 20px; /* Adjust the margin as desired */
+}
+
+.rounded-img {
+  border-radius: 10px; /* Adjust the border radius as desired */
+}
