@@ -8,6 +8,10 @@
   vertical-align: middle;
 }
 
+.table-news .reviewer::before {
+  content: "📝";
+}
+
 .table-news .volunteer::before {
   content: "👥";
 }
