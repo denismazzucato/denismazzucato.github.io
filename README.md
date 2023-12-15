@@ -19,3 +19,8 @@ The whole webpage extends in a single scrolling page, where at the beginning a l
 All the resources are stored directly inside `src` in subfolders dependenig on the resource's type.
 
 To avoid a huge single code page I wrote a JS script to collage all the pages together using the handy "include" attribute. Note, JS scripts within an included file will not be executed.
+
+## TODO:
+
+- add landing page for impatto
+- add research statement for postdoc
