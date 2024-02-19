@@ -12,6 +12,10 @@
   content: "📝";
 }
 
+.table-news .paper::before {
+  content: "📄";
+}
+
 .table-news .volunteer::before {
   content: "👥";
 }

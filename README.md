@@ -25,3 +25,4 @@ To avoid a huge single code page I wrote a JS script to collage all the pages to
 - fix sas21
 - add landing page for impatto
 - add landing page for research statement postdoc
+- fix work of NFM 24
