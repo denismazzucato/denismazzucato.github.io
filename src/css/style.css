@@ -36,6 +36,14 @@
   content: "🏔️";
 }
 
+.table-news .award::before {
+  content: "🏆";
+}
+
+.table-news .job::before {
+  content: "💼";
+}
+
 .table-news .amazon {
   background: url(/src/img/amazon.png) no-repeat;
   background-size: 20px 20px;
