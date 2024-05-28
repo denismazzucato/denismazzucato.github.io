@@ -50,6 +50,12 @@
   background-position-y: 13px;
 }
 
+.table-news .nasa {
+  background: url(/src/img/nasa.png) no-repeat;
+  background-size: 20px 18px;
+  background-position: 0px 13px;
+}
+
 .block, .inline-block {
   border-left: 2px solid #aeaeae;
   padding: 5px 0px 10px 10px;
