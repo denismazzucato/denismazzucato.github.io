@@ -107,3 +107,28 @@ ul.timeline > li:before {
 .rounded-img {
   border-radius: 10px; /* Adjust the border radius as desired */
 }
+
+.counters-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.9em; /* Slightly smaller font size for the whole table */
+}
+
+.counters-table td {
+  padding: 10px; /* Adjusted padding to match the smaller font size */
+  padding-right: 1px;
+  border-radius: 8px;
+  font-size: 1.2em; /* Adjusted font size within the table cells */
+  vertical-align: middle; /* Vertically align the text */
+}
+
+.counters-table .number {
+  font-size: 1.8em; /* Slightly smaller number size */
+  /* margin-right: 5px; */
+  white-space: nowrap; /* Prevent numbers from wrapping */
+  text-align: right;
+}
+
+.counters-table .text {
+  text-align: left;
+}
