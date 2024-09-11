@@ -44,6 +44,10 @@
   content: "💼";
 }
 
+.table-news .thesis::before {
+  content: "🎓";
+}
+
 .table-news .amazon {
   background: url(/src/img/amazon.png) no-repeat;
   background-size: 20px 20px;
