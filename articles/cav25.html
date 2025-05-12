@@ -1,0 +1,62 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <div include="/src/meta.html"></div>
+  <title>Denis Mazzucato</title>
+</head>
+<body>
+  <div class="container">
+    <div class="row my-4">
+      <div class="col-2">
+        <a href="/index.html">&lt;&lt; Back to home</a>
+      </div>
+      <div class="col-10">
+        <p class="text-muted">21-25 July 2025 @ <a target="_blank" href="https://conferences.i-cav.org/2025/">Computer Aided Verification 2025</a></p>
+        <h2>Relational Hoare Logic for Realistically Modelled Machine Code</h2>
+        <p class="h5 text-muted"><b><u>Denis Mazzucato</u></b>, <u>Abdalrhman Mohamed</u>, Juneyoung Lee, Clark Barrett, Jim Grundy, John Harrison, Corina Pasareanu</p>
+        <p class="m-5"> Many security- and performance-critical domains, such as cryptography, rely on low-level verification to minimize the trusted computing surface and allow code to be written directly in assembly. However, verifying assembly code against a realistic machine model is a challenging task. Furthermore, certain security properties, such as constant-time behavior, require relational reasoning that goes beyond traditional correctness by linking multiple execution traces within a single specification. Yet, relational verification has been extensively explored at a higher level of abstraction. In this work, we introduce a Hoare-style logic that provides low-level, expressive relational verification.
+          We demonstrate our approach on the s2n-bignum library, proving both constant-time discipline and equivalence between optimized and verification-friendly routines.
+          Formalized in HOL Light, our results confirm the real-world applicability of relational verification in large assembly codebases.
+        </p>
+        <dl class="row">
+          <dt class="col-sm-2">Type</dt>
+          <dd class="col-sm-10">Conference Publication</dd>
+          <dt class="col-sm-2">Event</dt>
+          <dd class="col-sm-10"><a target="_blank" href="https://conferences.i-cav.org/2025/">Computer Aided Verification 2025</a></dd>
+          <dt class="col-sm-2">Paper</dt>
+          <dd class="col-sm-10"><a target="_blank" href="/cav25.pdf">Relational Hoare Logic for Realistically Modelled Machine Code</a></dd>
+          </dd>
+        </dl>
+        <table class="table-news table table-borderless">
+          <tbody>
+            <tr>
+              <td class="conf"></td>
+              <td>
+                Presented in person at CAV 2025
+                <p class="mb-0 small text-muted">July 2025</p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <div>
+          <a role="button" class="btn btn-outline-primary mt-1" href="https://github.com/awslabs/s2n-bignum" target="_blank">GitHub</a>
+          <a role="button" class="btn btn-outline-primary mt-1" href="/cav25.pdf" target="_blank">PDF</a>
+          <a role="button" class="btn btn-outline-primary" href="https://doi.org/10.5281/zenodo.15309209" target="_blank">Artifact</a>
+          <a role="button" class="btn btn-outline-primary" href="/slides-cav25.pdf" target="_blank">Slides @ CAV25</a>
+        </div>
+          <!-- <div class="col-3 col-md-auto"> -->
+            <!-- Image 1 -->
+            <!-- <div class="image-container"> -->
+              <!-- <img src="/src/img/csv_a.jpg" class="img-fluid rounded-img"> -->
+            <!-- </div> -->
+          <!-- </div> -->
+          <!-- <div class="col-9 col-md-auto"> -->
+            <!-- Image 2 -->
+          <!-- </div> -->
+      </div>
+    </div>
+  </div>
+  <script src="/inject.js"></script>
+</body>
+</html>
